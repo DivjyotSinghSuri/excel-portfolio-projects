@@ -61,12 +61,15 @@ To simulate a real-world retail analysis case study by:
 
 ---
 
-## 📁 Files
-- 'zepto-sales-dataset.csv' - raw dataset downloaded from Kaggle
-- `Zepto Sales Insights Dashboard.xlsx` – full Excel file with dashboard, insights, and pivot tables
-- `README.md` – project summary and documentation
-- 'Dashboard.png' -  image of the Dashboard sheet
-- 'Insights.png' - image of the Summarized Insights sheet
+## 📦 Files in this Repository
+
+| File Name                          | Description                                  |
+|-----------------------------------|----------------------------------------------|
+| `zepto-sales-dataset.csv`         | Raw dataset downloaded from Kaggle           |
+| `Zepto Sales Insights Dashboard.xlsx` | Excel file with dashboard, insights, and pivot tables |
+| `Dashboard.png`                   | Image of the Dashboard sheet                 |
+| `Insights.png`                    | Image of the Summarized Insights sheet       |
+| `README.md`                       | Project summary and documentation            |
 
 ---
 
