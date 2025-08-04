@@ -1,4 +1,4 @@
-# 📊 Facebook Marketing Campaign Performance Analysis (Excel Project)
+# 📊 Facebook Marketing Campaign Performance Analysis
 
 This project analyzes marketing campaign performance using Excel to uncover cost-efficiency insights across age groups, gender, and campaign IDs.
 
